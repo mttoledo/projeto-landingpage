@@ -19,7 +19,7 @@ The project currently offers some responsiveness, but full mobile responsiveness
 
 <a href="https://www.figma.com/design/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=0-1&p=f&t=wvtONGbHofkeGS5H-0" target=_blank> Visit the original project</a>
 
-<a href=">
+<a href="https://mttoledo.github.io/projeto-landingpage/" target=_blank> Visit my project</a>
 
 ## Screenshots
 
